@@ -1,0 +1,10 @@
+{
+  "load_extensions": {
+    "jupyter-js-widgets/extension": true
+  },
+  "CodeCell": {
+    "cm_config": {
+      "lineNumbers": true
+    }
+  }
+}
